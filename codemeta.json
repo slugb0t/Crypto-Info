@@ -1,0 +1,29 @@
+{
+  "name": "Crypto-Info",
+  "@context": "https://w3id.org/codemeta/3.0",
+  "author": [
+    {
+      "affiliation": {
+        "name": "FAIR Data Innovations Hub",
+        "type": "Organization"
+      },
+      "email": "wheresdorian@gmail.com",
+      "familyName": "Portillo",
+      "id": "_:author_1",
+      "givenName": "Dorian",
+      "type": "Person"
+    }
+  ],
+  "codeRepository": "https://github.com/slugb0t/Crypto-Info",
+  "dateCreated": "2021-07-28",
+  "description": "testing",
+  "issueTracker": "https://github.com/slugb0t/Crypto-Info/issues",
+  "keywords": [
+    "keyword"
+  ],
+  "license": "https://spdx.org/licenses/AFL-1.2",
+  "programmingLanguage": [
+    "Python"
+  ],
+  "type": "SoftwareSourceCode"
+}
