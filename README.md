@@ -5,4 +5,4 @@ Other functions include converting cryptocurrency to other currencies (including
 
 ![Terminal](./Crypto-Info.PNG)
 
-Program will gather details of Coin name, Ticker, Algorithm, Proof type and Total Coin Supply
+Program will gather details of Coin name, Ticker, Algorithm, Proof type and Total Coin Supply.
